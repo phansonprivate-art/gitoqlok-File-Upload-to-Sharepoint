@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "33bdce07-19d6-4dbf-949a-9255304da7b6",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vUrl",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "https://mbztkwjxpv.dataplus.leitart.de/api/files/list?path=FilesExample/DropFolder/dataplusdays_fileupload",
+  "qIsScriptCreated": true
+}

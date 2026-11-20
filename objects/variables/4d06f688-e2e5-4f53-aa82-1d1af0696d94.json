@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "4d06f688-e2e5-4f53-aa82-1d1af0696d94",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vSperrenInfo",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "='Gesperrt am '& today() & ' von  ' & subfield(OSUser(),'=',3)",
+  "tags": []
+}

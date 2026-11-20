@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "9cc739a4-f75f-4d65-9257-0d711e91c176",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vFolder",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "FilesExample/DropFolder/dataplusdays_fileupload",
+  "qIsScriptCreated": true
+}

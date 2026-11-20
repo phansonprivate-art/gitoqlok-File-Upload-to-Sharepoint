@@ -1,0 +1,82 @@
+[
+  {
+    "qName": "ContractID",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Contracts"
+    ]
+  },
+  {
+    "qName": "Partner",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Contracts"
+    ]
+  },
+  {
+    "qName": "Status",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Contracts"
+    ]
+  },
+  {
+    "qName": "Verantwortlicher",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Contracts"
+    ]
+  },
+  {
+    "qName": "Vertragstyp",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Contracts"
+    ]
+  },
+  {
+    "qName": "isDirectory",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "DropFiles"
+    ]
+  },
+  {
+    "qName": "lastModified",
+    "qTags": [
+      "$numeric",
+      "$timestamp"
+    ],
+    "qSrcTables": [
+      "DropFiles"
+    ]
+  },
+  {
+    "qName": "name",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "DropFiles"
+    ]
+  }
+]

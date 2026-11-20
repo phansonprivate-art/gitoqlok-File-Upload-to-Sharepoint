@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "be95d0a4-bbc6-4c10-9890-dcd55af95ad3",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vApiKey",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "109f555e8a295d577f98a7206d961545",
+  "qIsScriptCreated": true
+}

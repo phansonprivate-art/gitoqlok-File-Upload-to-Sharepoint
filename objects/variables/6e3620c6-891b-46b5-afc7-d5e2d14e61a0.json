@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "6e3620c6-891b-46b5-afc7-d5e2d14e61a0",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vEinheit",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=if(einheit='St', 'Stück')",
+  "tags": []
+}

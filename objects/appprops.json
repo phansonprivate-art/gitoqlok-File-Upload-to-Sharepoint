@@ -1,0 +1,31 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "346ca454-ae92-411a-a416-7832a342d1f1",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": {
+        "index": -1,
+        "color": "#3d464d",
+        "alpha": 1
+      },
+      "sheetTitleGradientColor": {
+        "index": -1,
+        "color": "#3d464d",
+        "alpha": 1
+      },
+      "sheetTitleColor": "#ffffff",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/api/v1/apps/b9527774-8756-4d6e-a054-881a56ef1068/media/files/LeitArt_Logo_weiß.png"
+        }
+      },
+      "sheetLogoPosition": "",
+      "rtl": false,
+      "theme": "card"
+    },
+    "qChildren": []
+  }
+]

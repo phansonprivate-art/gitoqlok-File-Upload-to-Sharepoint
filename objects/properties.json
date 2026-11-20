@@ -1,0 +1,16 @@
+{
+  "qTitle": "File Upload to Sharepoint",
+  "qThumbnail": {
+    "qUrl": "/api/v1/apps/b9527774-8756-4d6e-a054-881a56ef1068/media/files/FileUpload.jpg"
+  },
+  "qUsage": "ANALYTICS",
+  "encrypted": true,
+  "id": "b9527774-8756-4d6e-a054-881a56ef1068",
+  "published": false,
+  "publishTime": "2026-03-18T14:29:14.278Z",
+  "originAppId": "87b9f219-0ddc-466e-a151-63136e13f44c",
+  "owner": "wss1ssuvx4iy",
+  "ownerId": "6526d774914540180826a278",
+  "spaceId": "69bab5f90dce1800f1b1d431",
+  "_resourcetype": "app"
+}

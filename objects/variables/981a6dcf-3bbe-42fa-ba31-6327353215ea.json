@@ -1,0 +1,13 @@
+{
+  "qInfo": {
+    "qId": "981a6dcf-3bbe-42fa-ba31-6327353215ea",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vMaxId",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  }
+}

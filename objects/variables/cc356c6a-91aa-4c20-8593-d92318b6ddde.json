@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "cc356c6a-91aa-4c20-8593-d92318b6ddde",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vLoeschenInfo",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "='Dieser Artikel wurde von ' & subfield(OSUser(),'=',3) & ' am ' & today() & ' gelöscht'",
+  "tags": []
+}
